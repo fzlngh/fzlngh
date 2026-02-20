@@ -38,9 +38,9 @@ Welcome to my gitHub profile — where ideas turn into code and curiosity turns 
 
 ## 📫 Connect With Me
 
-* 🌐 Portfolio → https://dhiyaa-fazila.pages.dev/portofolio
+* 🌐 Portfolio → https://dhiyaa-fazila.my.id/portofolio
 * 📧 Email → [nugrahafazila@gmail.com](mailto:nugrahafazila@email.com)
-* 📸 Instagram → @pajilowkey
+* 📸 Instagram → [@pajilowkey](https://www.instagram.com/pajilowkey?igsh=ejA0ZDk4YzNzbWtw) 
 
 ---
 
