@@ -70,7 +70,7 @@ Online food ordering web app with built-in face recognition for secure transacti
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pajilowkey&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fzlngh&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
