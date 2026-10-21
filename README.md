@@ -87,6 +87,6 @@ Online food ordering web app with built-in face recognition for secure transacti
 
 > *"Those who live in the past limit their future."*
 
-⭐ Thanks for visiting — feel free to explore my repositories and connect with me!
+⭐ Thanks for visiting feel free to explore my repositories and connect with me!
 
 </div>
