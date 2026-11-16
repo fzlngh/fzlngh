@@ -5,11 +5,12 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;AI+Engineering+Explorer+%F0%9F%A7%A0;Building+Scalable+Systems+with+Go+%F0%9F%9A%80;Still+a+Student%2C+Building+Like+an+Engineer+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Collaborative+Robot+Operation+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%92%BB;AI+Engineering+Explorer+%F0%9F%A7%A0;Building+Scalable+Systems+with+Go+%F0%9F%9A%80;Still+a+Student%2C+Building+Like+an+Engineer+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
 
+![Collaborative Robot Operation](https://img.shields.io/badge/Collaborative%20Robot%20Operation-DC2626?style=for-the-badge&logo=robotics&logoColor=white)
 ![Web Dev](https://img.shields.io/badge/Web%20Dev-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Software Eng](https://img.shields.io/badge/Software%20Eng-7C3AED?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![AI Engineering](https://img.shields.io/badge/AI%20Engineering-0F766E?style=for-the-badge&logo=openai&logoColor=white)
@@ -22,6 +23,7 @@
 
 <img align="right" alt="Coding Animation" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+- 🤖 **Focus:** Collaborative Robot Operation, Automation & Intelligent Systems
 - 🎓 **Student** passionate about technology, backend systems & engineering
 - 🧠 **Currently learning:** Full-Stack Development, Go Backend & AI Engineering
 - 🌍 **Mission:** Become a global-level engineer, collaborate internationally, and build impactful tech
@@ -63,10 +65,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fzlngh&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzlngh&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=fzlngh&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fzlngh&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fzlngh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=fzlngh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fzlngh&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
